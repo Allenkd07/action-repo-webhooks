@@ -1,2 +1,4 @@
-for i in range(5):
-    print("Hello, world!")
+if __name__ == "__main__":
+    print("This is a demo script.")
+    for i in range(3):
+        print(f"Iteration {i + 1}")
